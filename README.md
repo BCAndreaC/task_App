@@ -1,1 +1,14 @@
-A to-do task app with a video game theme can make task management more fun and engaging. Powered by PHP and MySQL, this app lets you create, manage, and complete tasks.
+A to-do task app. Powered by PHP and MySQL, this app lets you create, manage, and complete tasks.
+
+Instrucciones:
+
+*Plataforma Base:
+-php 8
+-Base de Datos(mysql)
+*Pre requesitos de Instalacion :
+-Poseer una version Actualizada de cualquier navegador WED(Chorme,Morzilla Firefox,Edge)
+-Debe Instalar Xampp en el Ordenado y Ubicar el Repositorio o Carpeta en la carpeta htdocs.
+-Debe Instalar Instalar Mysql en el sistema operativo de preferencia.
+*Ejecucion:
+-Iniciar el servidor Wed Xampp.
+-Acceder a la siguiente Ruta:http://localhost/CRUD_USER_PHP/.
